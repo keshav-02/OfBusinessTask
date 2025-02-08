@@ -1,0 +1,13 @@
+com\OfBusiness\task\service\impl\BuyerServiceImpl.class
+com\OfBusiness\task\controller\BuyerController.class
+com\OfBusiness\task\entity\Order.class
+com\example\inventory\service\impl\ProductServiceImpl.class
+com\OfBusiness\task\controller\ProductController.class
+com\OfBusiness\task\repository\ProductDAO.class
+com\OfBusiness\task\entity\Product.class
+com\OfBusiness\task\service\OrderService.class
+com\OfBusiness\task\TaskApplication.class
+com\OfBusiness\task\entity\Buyer.class
+com\OfBusiness\task\repository\BuyerDAO.class
+com\OfBusiness\task\service\BuyerService.class
+com\OfBusiness\task\service\ProductService.class
